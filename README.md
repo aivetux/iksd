@@ -7,4 +7,4 @@ This is my first repository
 
 ## how to use
 
-## uninstallation
+## uninstall
